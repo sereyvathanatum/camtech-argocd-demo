@@ -8,5 +8,5 @@ spec:
     app: my-web # This must match the Pod labels
   ports:
   - protocol: TCP
-    port: 8001
+    port: 9001
     targetPort: 80
